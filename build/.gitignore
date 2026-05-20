@@ -1,0 +1,12 @@
+build/
+dist/
+*.o
+*.elf
+*.hex
+*.map
+*.lst
+*.d
+*.p1
+*.rlf
+*.sdb
+*.xml
